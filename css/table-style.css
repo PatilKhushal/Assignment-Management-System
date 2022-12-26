@@ -1,0 +1,131 @@
+/*
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
+
+/*main content*/
+
+
+
+/*--market--*/
+.input-group 
+{
+	margin-bottom: 20px;
+}
+
+.panel-default>.panel-heading 
+{
+    color: green;
+    background-color: #ddede0 ! important;
+    border-color: #ddede0 ! important;
+    font-size: 30px;
+    font-family : serif;
+    height : 80px;
+    border-radius : 100px;
+}
+
+.panel-heading 
+{
+    margin : 0px 5px 0px 5px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 20px;
+    text-decoration :  underline;
+}
+
+.panel 
+{
+    border: none ! important;
+}
+
+.tab-container .tab-content 
+{
+	border-radius: 0 2px 2px 2px;
+	border: 1px solid #e0e0e0;
+	padding: 16px;
+	background-color: #ffffff;
+}
+
+.table td, .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th 
+{
+	padding: 20px!important;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td 
+{
+	font-size: 15   px;
+	color: #999;
+	border-top: none !important;
+}
+
+.pagination 
+{
+	margin: 20px 0 0px;
+}
+
+select.input-sm 
+{
+    height: 30px;
+    line-height: 30px;
+}
+.w-sm 
+{
+    width: 150px;
+}
+.inline 
+{
+    display: inline-block !important;
+}
+.v-middle 
+{
+    vertical-align: middle !important;
+}
+.m-b-xs 
+{
+    margin-bottom: 5px;
+}
+
+.text-success 
+{
+    color: #27c24c;
+}
+.text-warning 
+{
+    color: #fad733;
+}
+.text-danger 
+{
+    color: #f05050;
+}
+.btn-default 
+{
+    color: #58666e !important;
+    background-color: #fcfdfd;
+    background-color: #fff;
+    border-color: #dee5e7;
+    border-bottom-color: #d8e1e3;
+    -webkit-box-shadow: 0 1px 1px rgba(90, 90, 90, 0.1);
+    box-shadow: 0 1px 1px rgba(90, 90, 90, 0.1);
+}
+
+.pagination li a 
+{
+    color: #32323a;
+}
+
+.table-agile-info
+{
+	background:  #eef9f0;
+    padding: 2em;
+    border-radius: 40px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+.w3-res-tb 
+{
+    padding: 2em 1em 0;
+}
